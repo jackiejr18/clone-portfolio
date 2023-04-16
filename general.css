@@ -29,3 +29,55 @@ img#hero-icon {
 	background-color: #34495e;
 	padding: 90px 0;
 }
+
+.descp {
+	margin: 0;
+	padding: 0;
+	line-height: 40px !important;
+}
+
+.glyphicon {
+	margin-right: 10px;
+}
+
+.lead2 {
+margin-bottom: 30px;
+margin-top: 20px;
+font-size: 18px;
+line-height: 1.46428571;
+font-weight: 300;
+}
+
+.lead3 {
+margin-bottom: 0px;
+margin-top: 0px;
+font-size: 16px;
+color: #8D8D8D;
+line-height: 1.46428571;
+font-weight: 300;
+}
+
+.float {
+-webkit-animation-name: floatingx;
+-webkit-animation-duration: 4s;
+-webkit-animation-iteration-count: infinite;
+-webkit-animation-timing-function: ease-in-out;
+-moz-animation-name: floating;
+-moz-animation-duration: 4s;
+-moz-animation-iteration-count: infinite;
+-moz-animation-timing-function: ease-in-out;
+}
+
+.phone-image {
+max-width: 250px;
+margin: auto;
+}
+
+.h1_home{
+	font-size: 80px;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: 350;
+	letter-spacing: 6px;
+}
+
+
