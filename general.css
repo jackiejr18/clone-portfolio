@@ -152,3 +152,17 @@ margin: auto;
 	color: #fff;
 	background-color:#4A90BE;
 }
+
+.mybutton_cyano:hover {
+	border: 1px solid #4A90BE;
+	color: #4A90BE !important;
+	background: rgba(204, 204, 204, 0);
+}
+
+.button_down img {
+	width: 50px;
+}
+
+.btn-primary {
+	border-color: rgba(52, 73, 94, 0);
+}
