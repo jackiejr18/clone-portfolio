@@ -367,7 +367,7 @@ h1#social{
     animation: bg-rainbow 10s infinite;
   }
   
-  @keyframes bg-rainbow {
+@keyframes bg-rainbow {
     0% {background: rgb(234, 104, 113) ;}
     15%{background:rgba(255, 192, 124, 1);}
     30%{background:rgba(254, 222, 154, 1);}
