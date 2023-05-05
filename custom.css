@@ -211,5 +211,59 @@ padding: 8px 12px;
 	background: #cad3d0;
 }
 
+/* More Demo Box */
 
+#example-info h1,
+#more h1 {
+	margin-top: 40px;
+}
 
+.demos-row {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.demo-page {
+	margin-top: 0px;
+	margin-bottom: 100px;
+}
+
+.demo-box{
+	display: block;
+	background: #f3f3f3;
+	text-align: center;
+	font-size: 18px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.demo-box h3 { 
+	padding-bottom:20px;
+	margin: 0px;
+	color: #869690;
+}
+
+.demo-box:hover{
+	text-decoration: none;
+}
+
+.demo-wrapper{
+	padding: 30px 0px 20px 0px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.demo-slide {
+	float: left;
+}
+
+.demo-slide .bg {
+	background: #aebab6;
+	margin-right: 1px;
+	height: 100%;
+}
+
+.demo-box:hover .demo-slide .bg {
+	background: #7fc242;
+}
