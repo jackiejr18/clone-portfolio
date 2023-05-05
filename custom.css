@@ -111,4 +111,12 @@ pre.pre-show {
 
 }
 
+/* Content */
+
+.table th, .table td {
+padding: 8px 12px;
+}
+
+.wrap_title {margin-bottom: 30px;}
+
 
