@@ -46,7 +46,6 @@ div.top-menu {
 div.top-menu div {
   display: inline;
   font-family: 'Inconsolata', monospace;
-
 }
 
 .link {
@@ -57,4 +56,38 @@ div.top-menu div {
   padding: 5px;
   color: #81bcda;
   animation: blinker 1.2s step-end infinite;
+}
+
+ span {
+   margin-left: 6px;
+ }
+
+ span.red {
+  background-color: #e4514f;
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+  display: inline-block;
+ }
+
+ span.orange {
+  background-color: #f4c025;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  display: inline-block;
+
+}
+
+span.green {
+  background-color: #3ec930;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+span.date {
+  text-align: right;
+  font-style: italic;
 }
