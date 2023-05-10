@@ -21,3 +21,40 @@
     padding-bottom: 5%;
   }
 }
+
+.rainbow {
+  color: #CF7075;
+  animation: blinker 1.2s step-end infinite;
+  animation: rainbow 7s infinite alternate;
+}
+
+div.top-menu {
+  background: #ddd;
+  height: 50px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  margin-top: 30px;
+  margin-bottom: 0;
+  padding-left: 10px;
+  padding-right: 25px;
+  padding-top: 15px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+div.top-menu div {
+  display: inline;
+  font-family: 'Inconsolata', monospace;
+
+}
+
+.link {
+  display: block;
+  margin-top: 50px !important;
+  width: 91px;
+  border: 2px solid white;
+  padding: 5px;
+  color: #81bcda;
+  animation: blinker 1.2s step-end infinite;
+}
