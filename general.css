@@ -262,7 +262,7 @@ a.navbar-brand:hover {
 	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
 	padding-bottom: 50px;
 	color: #f8f8f8;
-	background: url(../img/intro/bg-main.svg) no-repeat center center;
+	background: url(bg-main.svg) no-repeat center center;
 	background-color: #81BCDA;
 	background-size: contain;
 	text-align: center;
