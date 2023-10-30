@@ -114,7 +114,7 @@ margin: auto;
 }
 
 .item .img-responsive { 
-	cursor:url(../img/cross.png),auto;
+	cursor:url(cross.png),auto;
 }
 
 /* Preloader */
@@ -135,7 +135,7 @@ margin: auto;
 	position:absolute;
 	left:50%; /* centers the loading animation horizontally one the screen */
 	top:50%; /* centers the loading animation vertically one the screen */
-	background-image:url(../img/status.gif); /* path to your loading animation */
+	background-image:url(status.gif); /* path to your loading animation */
 	background-repeat:no-repeat;
 	background-position:center;
 	margin:-100px 0 0 -100px; /* is width and height divided by two */
@@ -262,7 +262,7 @@ a.navbar-brand:hover {
 	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
 	padding-bottom: 50px;
 	color: #f8f8f8;
-	background: url(../img/intro/bg-main.svg) no-repeat center center;
+	background: url(bg-main.svg) no-repeat center center;
 	background-color: #81BCDA;
 	background-size: contain;
 	text-align: center;
@@ -273,7 +273,7 @@ a.navbar-brand:hover {
 		padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
 		padding-bottom: 50px;
 		color: #f8f8f8;
-		background: url(../img/intro/bg-mobile.svg) no-repeat center center;
+		background: url(bg-mobile.svg) no-repeat center center;
 		background-color: #81BCDA;
 		background-size: contain;
 		text-align: center;
