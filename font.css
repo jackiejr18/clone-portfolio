@@ -1,0 +1,59 @@
+.custom-title-font{
+  font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  color: #222;
+  font-size: 55px;
+}
+
+.custom-p-font{
+    font-family: 'Montserrat', serif !important;
+}
+
+.custom-p-font a {
+    color: #81Bcda;
+}
+
+.custom-p-font a:hover {
+    color: #81BCDA;
+    text-decoration: underline;
+}
+
+.custom-subheading-font{
+    font-family: 'Playfair Display', serif !important;
+    font-weight: 500;
+}
+
+.custom-subtitle-font{
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+}
+.underline{
+    border-top: 2px solid #81BCDA;
+    color: #FFF;
+}
+
+.c-mt{
+    margin-top: 15% !important;
+}
+
+.my-work{
+    margin-top:800px;
+}
+
+.contact{
+    margin-top :80px !important;
+}
+
+p#navi-links{
+    color: #344A5F;
+}
+
+a.navi-text{
+    font-size: 1.5rem !important;
+}
+
+h1.new {
+    color: #222;
+    font-size: 60px;
+    font-family: BlinkMacSystemFont,-apple-system,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
